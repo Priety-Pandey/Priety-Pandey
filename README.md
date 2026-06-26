@@ -12,8 +12,7 @@ I hold an **M.Tech in Computer Applications from BITS Pilani** and a strong foun
 
 | Category | Tools |
 |---|---|
-| **Observability & Monitoring** | Dynatrace · OpsRamp · CA UIM · Helix · TSOM |
-| **Log Management** | Splunk |
+| **Observability & Monitoring** | OpsRamp · CA UIM . Dynatrace · Helix · TSOM |
 | **Cloud** | Microsoft Azure (AZ-900 certified) |
 | **ITSM** | ServiceNow |
 | **Currently Learning** | Python · Prometheus · Grafana · AZ-104 |
